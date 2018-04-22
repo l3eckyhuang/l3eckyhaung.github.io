@@ -32,4 +32,12 @@ hr{
     padding: 0.5rem;
     border: 1px solid;
     text-transform: uppercase;
+	color:#fff;
+}
+#header p{
+	color: #fff;
+}
+
+#header i{
+	color:#fff;
 }
