@@ -9,6 +9,7 @@ h1,h2,h3,h4{
 
 p{
 	letter-spacing: 2px;
+	color: #999999;
 }
 
 hr{
@@ -75,6 +76,16 @@ hr{
 #about h1{
 	padding-top: 140px;
 
+}
+
+#about .row > div{
+   padding: 1rem;
+}
+
+#about .row h3{
+	font-size: 1.5rem;
+    text-transform: uppercase;
+    color: #00394d;	
 }
 
 #resume{
