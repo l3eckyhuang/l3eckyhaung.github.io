@@ -72,10 +72,22 @@ hr{
 	width: 150px;
 }
 
-
 #about h1{
 	padding-top: 140px;
 
+}
+
+#about strong{
+	padding-right: 1rem;
+}
+
+#about a{
+	color: #999999;
+}
+
+
+#about a:hover{
+	text-decoration: none;
 }
 
 #about .row > div{
