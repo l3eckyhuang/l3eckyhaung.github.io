@@ -81,13 +81,8 @@ hr{
 	padding-right: 1rem;
 }
 
-#about a{
+#about p a{
 	color: #999999;
-}
-
-
-#about a:hover{
-	text-decoration: none;
 }
 
 #about .row > div{
