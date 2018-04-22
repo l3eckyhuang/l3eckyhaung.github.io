@@ -20,6 +20,11 @@ hr{
 	color: #0099cc;
 }
 
+.thumbnail {
+    position: relative;
+    overflow: hidden;
+}
+
 
 #header{
 	background-image: url(../img/headerimg.jpg);
@@ -40,4 +45,14 @@ hr{
 
 #header i{
 	color:#fff;
+}
+
+#header .social-media > div{
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+}
+
+#header .social-media i{
+    line-height: 30px;
 }
