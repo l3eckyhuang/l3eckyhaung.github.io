@@ -63,7 +63,7 @@ hr{
 #header .myphoto{
 	position: absolute;
     left: 50%;
-	transform: translate(-50%,50%);
+	transform: translate(-50%,0);
     border: 5px solid #f5f5f5;
 }
 
