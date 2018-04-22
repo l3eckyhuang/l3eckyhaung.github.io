@@ -79,6 +79,7 @@ hr{
 
 #about strong{
 	padding-right: 1rem;
+    text-transform: uppercase;
 }
 
 #about p a{
