@@ -1,3 +1,35 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont,"Microsoft JhengHei","Segoe UI","Roboto","Helvetica Neue", Arial, sans-serif,"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
+
+h1,h2,h3,h4{
+	letter-spacing: 1px;
+}
+
+p{
+	letter-spacing: 2px;
+}
+
+hr{
+	width: 40px;
+    border-top: 3px solid #0099cc;
+}
+
+.title{
+    text-transform: uppercase;
+	color: #0099cc;
+}
+
+
+#header{
+	background-image: url(../img/headerimg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment:scroll;
+}
+#header h1{
+    display: inline-block;
+    padding: 0.5rem;
+    border: 1px solid;
+    text-transform: uppercase;
+}
