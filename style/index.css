@@ -105,6 +105,9 @@ hr{
 }
 
 #resume h3{
-	font-size: 1.5rem;
+    font-size: 1.2rem;
     background: #CCD;
+    padding: 5px;
+    border-radius: 4px;
+    text-transform: uppercase;
 }
