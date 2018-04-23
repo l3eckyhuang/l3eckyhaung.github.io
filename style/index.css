@@ -17,6 +17,10 @@ hr{
     border-top: 3px solid #0099cc;
 }
 
+.section{
+	padding: 3rem 0;
+}
+
 .title{
     text-transform: uppercase;
     font-size: 2rem;
@@ -98,4 +102,9 @@ hr{
 
 #resume{
 	background: #eee;
+}
+
+#resume h3{
+	font-size: 1.5rem;
+    background: #CCD;
 }
