@@ -17,6 +17,7 @@ p{
 hr{
 	width: 40px;
     border-top: 3px solid #6762A6;
+    margin-bottom: 3rem;
 }
 
 section{
@@ -80,7 +81,7 @@ section{
 }
 
 #about h1{
-	padding-top: 140px;
+	margin-top: 140px;
 
 }
 
@@ -112,13 +113,26 @@ section{
 }
 
 #skills .skill{
-    background-color: #fff;
+    min-height: 252px;
     padding: 1rem;
+    background-color: #fff;
     border-radius: 4px;
 }
+#skills .skill:first-clild{
+    border-bottom: 4px solid #F58D23;
+}
+#skills .skill:nth-child(2){
+    border-bottom: 4px solid #539E43;
+}
+#skills .skill:nth-child(3){
+    border-bottom: 4px solid #6762A6;
+}
+
+
 #skills img{
     display: block;
     margin: 0 auto;
+    height: 70px;
 }
 #skills h3{
     margin: 1.2rem 0;
