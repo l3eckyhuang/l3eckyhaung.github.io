@@ -1,6 +1,7 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont,"Microsoft JhengHei","Segoe UI","Roboto","Helvetica Neue", Arial, sans-serif,"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	font-size: 12px;
+    background: #fcfcfc;
 }
 
 h1,h2,h3,h4{
@@ -102,10 +103,6 @@ hr{
     color: #00394d;	
 }
 
-#resume{
-	background: #eee;
-}
-
 #resume h3{
     font-size: 1.2rem;
     background: #CCD;
@@ -113,6 +110,25 @@ hr{
     border-radius: 4px;
     text-transform: uppercase;
 }
+
+#skills .skill{
+    background-color: #fff;
+    padding: 1rem;
+}
+
+#works .work{
+    background-color: #fff;
+}
+
+#works .work .intro{
+    padding: 0.5rem;
+}
+
+#works .work .intro:hover{
+    -webkit-box-shadow: 7px 7px 17px -5px rgba(189,189,189,1);
+    -moz-box-shadow: 7px 7px 17px -5px rgba(189,189,189,1);
+    box-shadow: 7px 7px 17px -5px rgba(189,189,189,1);
+}    
 
 footer{
     color: #6762A6;
