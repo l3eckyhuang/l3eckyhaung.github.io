@@ -127,7 +127,12 @@ section{
 #skills .skill:nth-child(3){
     border-bottom: 4px solid #6762A6;
 }
+#skills .skill ul{
+    margin-top: 0;
+    margin-bottom: 0rem;
+    line-height: 1.3rem;
 
+}
 
 #skills img{
     display: block;
