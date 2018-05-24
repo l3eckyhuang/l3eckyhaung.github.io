@@ -116,6 +116,7 @@ section{
 #skills .skill{
     min-height: 252px;
     padding: 1rem;
+    margin-bottom: 2rem;
     background-color: #fff;
     border-radius: 4px;
 
@@ -153,6 +154,7 @@ section{
 }
 
 #works .work{
+    margin-bottom: 2rem;
     background-color: #fff;
     border-radius: 4px;
 }
@@ -173,5 +175,7 @@ section{
 }
 
 footer{
-    color: #6762A6;
+    padding: 2rem 0;
+    background-color: #6762A6;
+    color: #fff;
 }
