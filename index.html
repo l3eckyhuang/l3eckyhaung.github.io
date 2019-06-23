@@ -7,10 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!--boostrap START-->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<!--boostrap END-->
 
 	<!--fontawesome-->
@@ -20,125 +19,22 @@
 	<title>BeckyHuang</title>
 </head>
 <body>
-	<section id="header" class="jumbotron jumbotron-fluid m-0">
-		<div class="container text-center">
-			<h1>becky huang</h1>
-			<p class="lead">Front-end engineer</p>
-			<div class="myphoto"><img src="../img/myphoto.jpg" alt="myphoto"></div>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="#">78. HOUSE B&B</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">78.house</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">旅遊指南</a>
+				</li>
+			</ul>
 		</div>
-	</section>
-	<section id="about">
-		<div class="container">
-			<h1 class="title">about me</h1>
-			<hr>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, soluta. Modi eligendi officiis eaque numquam nam alias pariatur recusandae aliquid.</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, libero nesciunt eius esse commodi odio provident tenetur quisquam vel nostrum.</p>
-			<div class="row">
-				<div class="col-12 col-md-6">
-					<p><strong>birthday</strong>25-06-1994</p>
-					<p><strong>phone</strong><a href="tel+886988255440">+886 988255440</a></p>
-					<p><strong>email</strong><a href="beckyhaung7662@gmail.com">beckyhaung7662@gmail.com</a></p>
-					<p><strong>website</strong><a href="http://beckyhuang.nctu.me/" target="_blank">http://beckyhuang.nctu.me/</a></p>
-					<div class="text-center">
-						<a class="btn btn-primary" href="#" role="button"><i></i>download resume</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="skills">
-		<div class="container">
-			<h1 class="title">skills</h1>
-			<hr>
-			<div class="row">
-				<div class="col-sm-4">
-					<div class="skill">
-						<img class="img-fluid" src="../img/skill-1.png" alt="skill">
-						<h3>Web Layout</h3>
-						<ul>
-							<li>RWD + Sass</li>
-							<li>Boostrap 4</li>
-							<li>FB pixel、schema.org</li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="skill">
-						<img class="img-fluid" src="../img/skill-2.png" alt="skill">
-						<h3>JavaScript & Node.js</h3>
-						<ul>
-							<li>jQuery animation</li>
-							<li>AJAX/JSON</li>
-							<li>Vue.js</li>
-							<li>Node.js / expresse.</li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="skill">
-						<img class="img-fluid" src="../img/skill-3.png" alt="skill">
-						<h3>Dev Helper</h3>
-						<ul>
-							<li>Git / Github</li>
-							<li>Heroku / AWS EC2、S3</li>
-							<li>gulp / webpack</li>
-							<li>介接歐付寶、玉山銀行金流經驗</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>	
-	<section id="resume">
-		<div class="container">
-			<h1 class="title">resume</h1>
-			<hr>
-			<div class="d-flex justify-content-center"><h3>experiences</h3></div>
-			<h5>company name 2016 - current</h5>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quas recusandae odit voluptas, voluptate natus aliquam voluptatibus culpa suscipit consequatur.</p>
-			<div class="d-flex justify-content-center"><h3>education</h3></div>
-			<h5>tamkung university 2012 - 2016</h5>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore totam minima non qui nisi blanditiis tenetur suscipit, et dolor modi!</p>
-		</div>
-	</section>
-
-	<section id="works">
-		<div class="container">
-			<h1 class="title">works</h1>
-			<hr>
-			<div class="row">
-				<div class="col-sm-4">
-					<div class="work">
-						<div class="thumbnail"><img class="img-fluid" src="../img/works-1.jpg"  alt="works"></div>
-						<div class="intro">
-							<h3>works 1 title</h3>
-							<p>Lorem ipsum dolor sit amet.</p>
-						</div>
-					</div>
-					
-
-				</div>
-				<div class="col-sm-4">
-					<div class="work">
-						<div class="thumbnail"><img class="img-fluid" src="../img/works-2.jpg"  alt="works"></div>
-						<div class="intro">
-							<h3>works 2 title</h3>
-							<p>Lorem ipsum dolor sit amet.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="work">
-						<div class="thumbnail"><img class="img-fluid" src="../img/works-3.jpg"  alt="works"></div>
-						<div class="intro">
-							<h3>works 3 title</h3>
-							<p>Lorem ipsum dolor sit amet.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	</nav>
 	<footer>
 		<div class="container text-center">
 			<h6>© 2018 	Beckyhuang. ALL RIGHTS RESERVED</h6>
