@@ -1,0 +1,158 @@
+[
+    {
+      "name": "藍蜻蜓速食專賣店",
+      "address": "台東縣台東市大同路214號",
+      "map": {
+        "id": "ChIJ47BMAj-5bzQR-otOIgCULU4",
+        "address": "台東縣台東市大同路214號"
+      },
+      "img": "藍蜻蜓速食專賣店.jpg",
+      "open": "10: 30–23: 00",
+      "rest": "星期一",
+      "phone": "089-310869",
+      "recommend": "炸雞腿、雞塊"
+    },
+    {
+      "name": "榕樹下米苔目",
+      "address": "台東縣台東市大同路176號",
+      "map": {
+        "id": "ChIJjV1T8j65bzQRGwX2peQCmDs",
+        "address": "台東縣台東市大同路176號"
+      },
+      "img": "榕樹下米苔目.jpg",
+      "open": "09: 30–15: 00 17: 00–20: 00",
+      "rest": "星期三",
+      "phone": "0963-148-519",
+      "recommend": ""
+    },
+    {
+      "name": "中華早點",
+      "address": "台東縣台東市中華路一段283號",
+      "map": {
+        "id": "ChIJjT6Ep0e5bzQRmKxtLFtPGXY",
+        "address": "台東縣台東市中華路一段283號"
+      },
+      "img": "中華早點.jpg",
+      "open": "05: 30–11: 30",
+      "rest": "",
+      "phone": "089-343148",
+      "recommend": "蛋餅、奶茶、滷肉飯加蛋銷魂"
+    },
+    {
+      "name": "寶桑湯圓",
+      "address": "台東縣台東市正氣路189號",
+      "map": {
+        "id": "ChIJuYdMij65bzQRmVFSSx4kjuE",
+        "address": "台東縣台東市正氣路189號"
+      },
+      "img": "寶桑湯圓.jpg",
+      "open": "14: 30–22: 00",
+      "rest": "",
+      "phone": "089-328888",
+      "recommend": "綜合湯圓"
+    },
+    {
+      "name": "披薩阿伯 Uncle Pete\\'s Pizza",
+      "address": "台東縣台東市臨海路一段167號",
+      "map": {
+        "id": "ChIJnxwd0jm5bzQRaPAr6M4gZk0",
+        "address": "台東縣台東市臨海路一段167號"
+      },
+      "img": "披薩阿伯.jpg",
+      "open": "17: 00–21: 00",
+      "rest": "",
+      "phone": "0952-179-165",
+      "recommend": "充滿異國與中西合璧的披薩店"
+    },
+    {
+      "name": "陳記麻糬",
+      "address": "台東縣台東市博愛路186號",
+      "map": {
+        "id": "ChIJM1OtGkG5bzQR-kleX-1fULs",
+        "address": "台東縣台東市博愛路186號"
+      },
+      "img": "陳記麻糬.jpg",
+      "open": "06: 30–19: 00",
+      "rest": "",
+      "phone": "089-353286",
+      "recommend": "現做麻糬超級好吃唷！"
+    },
+    {
+      "name": "人x人",
+      "address": "台東縣台東市上海街14巷17弄2號",
+      "map": {
+        "id": "ChIJnQRyVmq5bzQRdaMUh1wrmiI",
+        "address": "台東縣台東市上海街14巷17弄2號"
+      },
+      "img": "人x人.jpg",
+      "open": "08: 00–13: 00",
+      "rest": "星期三、星期四",
+      "phone": "089-340487",
+      "recommend": ""
+    },
+    {
+      "name": "藍田手作日式豬排",
+      "address": "台東縣台東市正氣北路255巷14號",
+      "map": {
+        "id": "ChIJlVNqUyLIbzQRp_6Kh05YQyE",
+        "address": "台東縣台東市正氣北路255巷14號"
+      },
+      "img": "藍田手作日式豬排.jpg",
+      "open": "11: 00–14: 30 17: 30–21: 00",
+      "rest": "星期一",
+      "phone": "089-310869",
+      "recommend": "腰內豬排、起司豬排"
+    },
+    {
+      "name": "卑南豬血湯老店",
+      "address": "台東縣台東市更生北路76號",
+      "map": {
+        "id": "ChIJMYCzuni5bzQRsL1bEr3v2AU",
+        "address": "台東縣台東市更生北路76號"
+      },
+      "img": "卑南豬血湯.jpg",
+      "open": "10: 00–17: 10",
+      "rest": "星期二",
+      "phone": "089-229043",
+      "recommend": "豬血湯、米腸"
+    },
+    {
+      "name": "七里坡紅藜養生料理",
+      "address": "台東縣台東市中正路203號",
+      "map": {
+        "id": "ChIJiz0MJTq5bzQRt7QwTkxRVvU",
+        "address": "台東縣台東市中正路203號"
+      },
+      "img": "七里坡紅藜養生料理.jpg",
+      "open": "11: 00–20: 30",
+      "rest": "星期三",
+      "phone": "089-325777",
+      "recommend": "紅藜椒麻雞飯"
+    },
+    {
+      "name": "客來吃樂 大腸蚵仔麵線",
+      "address": "台東縣台東市新生路220號",
+      "map": {
+        "id": "ChIJTSs5txW5bzQRGZX_u1cA9Vs",
+        "address": "台東縣台東市新生路220號"
+      },
+      "img": "客來吃樂.jpg",
+      "open": "10: 00–20: 00",
+      "rest": "",
+      "phone": "089-343096",
+      "recommend": "麵線、綠豆蒜"
+    },
+    {
+      "name": "四維路無名黑輪攤",
+      "address": "台東縣台東市四維路一段492號",
+      "map": {
+        "id": "ChIJEakgnke5bzQREovn2C_xzoQ",
+        "address": "台東縣台東市四維路一段492號"
+      },
+      "img": "四維路無名黑輪攤.jpg",
+      "open": "14: 30–18: 30",
+      "rest": "",
+      "phone": "089-310869",
+      "recommend": "7元一支、香腸"
+    }
+  ]
